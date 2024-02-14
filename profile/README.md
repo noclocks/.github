@@ -1,4 +1,5 @@
-# No Clocks, LLC <img src="./../assets/img/logo/main-logo-white-transparent.png" width="15%" align="right">
+# No Clocks, LLC <img src="https://github.com/noclocks/.github/assets/32652297/6af2998d-ae34-4aaf-b0db-e8d1cf2217bd" width="15%" align="right">
+
 
 <!--
 
