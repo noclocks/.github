@@ -58,8 +58,8 @@ In essence, our agency is synonymous with excellence, adaptability across domain
 
 ## Contact
 
-- **Email**:
-- **Phone**:
+- **Email**: [dev@noclocks.dev](mailto:dev@noclocks.dev)
+- **Phone**: [+1 (678) 491-4856](tel:167784914856)
 
 ## Social Media
 
@@ -67,5 +67,4 @@ In essence, our agency is synonymous with excellence, adaptability across domain
 - [Twitter]()
 - [Facebook]()
 - [Instagram]()
-- [GitHub]()
 - [YouTube]()
