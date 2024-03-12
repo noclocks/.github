@@ -5,3 +5,10 @@
 
 *Default [Community Health Files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for all of No Clocks' open-source projects.*
 
+## Badges
+
+[![Automate Changelog](https://github.com/noclocks/.github/actions/workflows/changelog.yml/badge.svg)](https://github.com/noclocks/.github/actions/workflows/changelog.yml)
+
+***
+
+[No Clocks, LLC](https://github.com/noclocks) | 2024
