@@ -1,0 +1,15 @@
+{
+    "name": "GitHub Pages - MkDocs",
+    "description": "No Clocks, LLC Default MkDocs GitHub Pages Workflow.",
+    "iconName": "mkdocs",
+    "categories": [
+        "Python",
+        "Documentation",
+        "GitHub Pages"
+    ],
+    "filePatterns": [
+        "^mkdocs.yml$",
+        "^requirements.txt",
+        ".*\\.md$"
+    ]
+}
