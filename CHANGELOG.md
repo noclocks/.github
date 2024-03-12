@@ -22,6 +22,7 @@
 
 ## Features
 
+- Add metadata to changelog.properties.json ([486ab4f](https://github.com/noclocks/.github/commit/486ab4f6a891ff3777e1bb746ec157d76ca08dcd))  - (Jimmy Briggs)
 - Create ghpages-mkdocs.yml workflow template ([7d29c71](https://github.com/noclocks/.github/commit/7d29c714b954c464aa2045f069762e7124298480))  - (Jimmy Briggs)
 - Add starter workflow template for changelog ([9eea6fa](https://github.com/noclocks/.github/commit/9eea6fae7f2fbf12f7b2080403d7ced62de4cdf8))  - (Jimmy Briggs)
 - Add image dump ([bb272e4](https://github.com/noclocks/.github/commit/bb272e4d397ed2e9bf300ca2f173b7191b00912a))  - (Jimmy Briggs)
