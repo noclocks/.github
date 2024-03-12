@@ -1,5 +1,5 @@
 {
-    "name": "No Clocks, LLC Default Changelog Automation Workflow",
+    "name": "Default Changelog Automation Workflow",
     "description": "This workflow is used to automate the process of creating a changelog for a release.",
     "iconName": "changelog",
     "categories": [
