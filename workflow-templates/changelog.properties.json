@@ -1,5 +1,5 @@
 {
-    "name": "Default Changelog Automation Workflow",
+    "name": "Changelog Automation",
     "description": "This workflow is used to automate the process of creating a changelog for a release.",
     "iconName": "changelog",
     "categories": [
