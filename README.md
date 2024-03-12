@@ -9,6 +9,16 @@
 
 [![Automate Changelog](https://github.com/noclocks/.github/actions/workflows/changelog.yml/badge.svg)](https://github.com/noclocks/.github/actions/workflows/changelog.yml)
 
+## GitHub Workflow Templates
+
+- [Changelog Workflow](./workflow-templates/changelog.yml): Default Changelog Automation Workflow with `git-cliff`.
+- [GitHub Pages - MkDocs](workflow-templates/ghpages-mkdocs.yml): Default GitHub Pages Deployment Automation Workflow with `MkDocs`.
+
+These will be displayed when adding new workflows to a repository under the "No Clocks, LLC" organization:
+
+![image](https://github.com/noclocks/.github/assets/32652297/bcbf9cb8-40a3-41dc-8c2f-cb8a8717f511)
+
+
 ***
 
 [No Clocks, LLC](https://github.com/noclocks) | 2024
