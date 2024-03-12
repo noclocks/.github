@@ -25,7 +25,7 @@ jobs:
       - name: Print Changelog
         id: print-changelog
         run: |
-          cat "${{ steps.git-cliff.outputs.changelog }}"
+          cat "CHANGELOG.md"
       - name: Commit and Push
         id: commit-push
         run: |
