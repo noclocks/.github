@@ -1,0 +1,30 @@
+# No Clocks, LLC GitHub Pages Default MkDocs Workflow
+
+name: MkDocs - GitHub Pages
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - $default-branch
+  pull_request:
+    branches:
+      - $default-branch
+
+jobs:
+  ghlabels:
+    name: Publish MkDocs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Publish
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # CUSTOM_DOMAIN: docs.noclocks.dev/${{ repo_name }}
+          CONFIG_FILE: mkdocs.yml
+          REQUIREMENTS: requirements.txt
+          
+    
