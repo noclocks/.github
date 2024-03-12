@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## Bug Fixes
+
+- Fix ghpages-mkdocs.properties.json with icon ([8a155e9](https://github.com/noclocks/.github/commit/8a155e9aace81183e2a80c91fd7084c04ea158d4))  - (Jimmy Briggs)
+
 ## Configuration
 
 - Create ghpages-mkdocs.properties.json ([53b7d36](https://github.com/noclocks/.github/commit/53b7d36309ab9cd9470825f812e35a9c7c0bcf70))  - (Jimmy Briggs)
