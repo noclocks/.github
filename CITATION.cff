@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Briggs"
+  given-names: "Jimmy"
+  orcid: "https://orcid.org/0000-0002-7489-8787"
+- family-names: "Howard"
+  given-names: "Patrick"
+title: "No Clocks, LLC"
+version: 1.0.0
+date-released: 2024-02-15
+url: "https://github.com/noclocks/"
