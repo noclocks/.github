@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## Configuration
+
+- Create ghpages-mkdocs.properties.json ([53b7d36](https://github.com/noclocks/.github/commit/53b7d36309ab9cd9470825f812e35a9c7c0bcf70))  - (Jimmy Briggs)
+
 ## Documentation
 
 - Add contact information to readme ([d7a15df](https://github.com/noclocks/.github/commit/d7a15dfc181e5f004ac640b1a794ec7f4a5ead8a))  - (Jimmy Briggs)
