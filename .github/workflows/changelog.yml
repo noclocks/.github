@@ -21,7 +21,7 @@ jobs:
         with:
           args: "--verbose"
           output: "CHANGELOG.md"
-          template-config: "https://github.com/noclocks/.github/blob/a15c85a360a37453e2d5bc49c3109a5f4faf03d5/workflow-templates/cliff.template.toml"
+          template-config: https://raw.githubusercontent.com/noclocks/.github/main/workflow-templates/cliff.template.toml
       - name: Print Changelog
         id: print-changelog
         run: |
