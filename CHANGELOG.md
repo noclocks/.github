@@ -12,6 +12,7 @@
 
 ## Documentation
 
+- Add ghpages-mkdocs.svg icon ([fb834a8](https://github.com/noclocks/.github/commit/fb834a8e21bdb179372ca99165fffefab036bd28))  - (Jimmy Briggs)
 - Add contact information to readme ([d7a15df](https://github.com/noclocks/.github/commit/d7a15dfc181e5f004ac640b1a794ec7f4a5ead8a))  - (Jimmy Briggs)
 - Add README ([7173da1](https://github.com/noclocks/.github/commit/7173da153b563d1e87c2d07c10b542900966691e))  - (Jimmy Briggs)
 
