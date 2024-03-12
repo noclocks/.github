@@ -1,7 +1,7 @@
 {
     "name": "GitHub Pages - MkDocs",
     "description": "No Clocks, LLC Default MkDocs GitHub Pages Workflow.",
-    "iconName": "mkdocs",
+    "iconName": "ghpages-mkdocs",
     "categories": [
         "Python",
         "Documentation",
