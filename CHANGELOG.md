@@ -8,6 +8,7 @@
 
 ## Bug Fixes
 
+- Fix changelog.yml to not commit and push on PR ([5995e02](https://github.com/noclocks/.github/commit/5995e027ce0ec5ea29b53483b747f5bd5c31c0d5))  - (Jimmy Briggs)
 - Fix ghpages-mkdocs.properties.json with icon ([8a155e9](https://github.com/noclocks/.github/commit/8a155e9aace81183e2a80c91fd7084c04ea158d4))  - (Jimmy Briggs)
 
 ## Configuration
@@ -16,6 +17,12 @@
 
 ## Documentation
 
+- Add content to GOVERNANCE.md ([1f7fe0b](https://github.com/noclocks/.github/commit/1f7fe0b18ccd3dbe3235f8ea83e75eaea7d0e5ec))  - (Jimmy Briggs)
+- Update and enhance README ([3bfca5a](https://github.com/noclocks/.github/commit/3bfca5a2766640980a3b6819090cb0902cd5c3dd))  - (Jimmy Briggs)
+- Add docs/ and initial files ([2b4edab](https://github.com/noclocks/.github/commit/2b4edabd376a28ba36d8e0fb92a8e902ea081a5c))  - (Jimmy Briggs)
+- Add SECURITY_CONTACTS ([dd89f04](https://github.com/noclocks/.github/commit/dd89f04c0351610579a15345ab1b349d394254be))  - (Jimmy Briggs)
+- Add GOVERNANCE.md ([c755892](https://github.com/noclocks/.github/commit/c7558922f8595084e126759d55b57e39c64126fe))  - (Jimmy Briggs)
+- Create FUNDING.md ([41ae64f](https://github.com/noclocks/.github/commit/41ae64fe7d2e3d2c77e441f369f3e53d5fbf64b9))  - (Jimmy Briggs)
 - Update README with workflow-templates ([2223c08](https://github.com/noclocks/.github/commit/2223c081e0b832f3673fb15521d87a0496cff26d))  - (Jimmy Briggs)
 - Add ghpages-mkdocs.svg icon ([fb834a8](https://github.com/noclocks/.github/commit/fb834a8e21bdb179372ca99165fffefab036bd28))  - (Jimmy Briggs)
 - Add contact information to readme ([d7a15df](https://github.com/noclocks/.github/commit/d7a15dfc181e5f004ac640b1a794ec7f4a5ead8a))  - (Jimmy Briggs)
