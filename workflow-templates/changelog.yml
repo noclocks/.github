@@ -26,12 +26,13 @@ jobs:
         id: print-changelog
         run: |
           cat "CHANGELOG.md"
-      - name: Commit and Push
-        id: commit-push
+      # Commit and push the updated changelog, IF not a pull request
+      - name: Commit and Push Changelog
+        if: github.event_name != 'pull_request'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           set +e
           git add CHANGELOG.md
           git commit -m "[chore]: update changelog"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git $default-branch
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git "main"
