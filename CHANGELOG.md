@@ -17,6 +17,7 @@
 
 ## Documentation
 
+- Update profile README.md ([9af4299](https://github.com/noclocks/.github/commit/9af4299a453d4fb7bc1207d4c17eebb2d99174a4))  - (Jimmy Briggs)
 - Add content to GOVERNANCE.md ([1f7fe0b](https://github.com/noclocks/.github/commit/1f7fe0b18ccd3dbe3235f8ea83e75eaea7d0e5ec))  - (Jimmy Briggs)
 - Update and enhance README ([3bfca5a](https://github.com/noclocks/.github/commit/3bfca5a2766640980a3b6819090cb0902cd5c3dd))  - (Jimmy Briggs)
 - Add docs/ and initial files ([2b4edab](https://github.com/noclocks/.github/commit/2b4edabd376a28ba36d8e0fb92a8e902ea081a5c))  - (Jimmy Briggs)
