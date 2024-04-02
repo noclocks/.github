@@ -13,6 +13,7 @@
 
 ## Configuration
 
+- Update FUNDING.yml ([7089cae](https://github.com/noclocks/.github/commit/7089cae039d7d7d0d3a921f6187378139811a177))  - (Jimmy Briggs)
 - Create ghpages-mkdocs.properties.json ([53b7d36](https://github.com/noclocks/.github/commit/53b7d36309ab9cd9470825f812e35a9c7c0bcf70))  - (Jimmy Briggs)
 
 ## Documentation
