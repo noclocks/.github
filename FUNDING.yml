@@ -1,6 +1,11 @@
 # Funding
 # https://help.github.com/en/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository
 
-github: [noclocks]
-custom: ["https://www.paypal.me/noclocks"]
+# issuehunt: noclocks
+# open_collective: noclocks
+# patreon: noclocks
+# buy_me_a_coffee: noclocks
+
+# github: [noclocks] # PENDING APPROVAL
+custom: ["https://www.paypal.me/noclocks", "https://pay.noclocks.dev/b/7sI5o93U4gng9gs5kl"]
 
