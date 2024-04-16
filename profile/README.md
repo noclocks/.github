@@ -82,14 +82,13 @@ Partner with us, and experience a transformative journey where technical prowess
 - [Twitter](https://www.twitter.com/noclocksdev)
 - [Stack Overflow](https://www.stackoverflow.com/)
 - [YouTube](https://www.youtube.com)
-- [GitHub Discussions](https://www.github.com/noclocks/discussions)
+- [GitHub Discussions](https://github.com/orgs/noclocks/discussions)
 
 <!--
 - 
 - [Facebook]()
 - [Instagram]()
 - [GitHub]()
-- [YouTube]()
 -->
 
 <!--
