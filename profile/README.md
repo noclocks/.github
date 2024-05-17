@@ -84,6 +84,10 @@ Partner with us, and experience a transformative journey where technical prowess
 - [YouTube](https://www.youtube.com)
 - [GitHub Discussions](https://github.com/orgs/noclocks/discussions)
 
+## Legal
+
+- [Privacy Policy](https://docs.noclocks.dev/legal/privacy-policy/privacy-policy.html)
+
 <!--
 - 
 - [Facebook]()
