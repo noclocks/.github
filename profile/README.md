@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://noclocks.dev">Website</a> |
+  <a href="https://website.noclocks.dev">Website</a> |
   <a href="https://blog.noclocks.dev">Blog</a> |
   <a href="https://docs.noclocks.dev">Docs</a> |
   <a href="https://cal.com/team/noclocks">Schedule</a>
