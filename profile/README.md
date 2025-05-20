@@ -1,8 +1,8 @@
-<h1 align="center">No Clocks, LLC</h1>
-
 <p align="center">
- <img src="https://github.com/noclocks/.github/assets/32652297/6af2998d-ae34-4aaf-b0db-e8d1cf2217bd" width="15%" />
+ <img src="../assets/img/logo/noclocks-logo-wordmark-white.svg" width="50%" />
 </p>
+
+<h3 align="center">Atlanta, Georgia</h3>
 
 <p align="center">
   <a href="https://noclocks.dev">Website</a> |
